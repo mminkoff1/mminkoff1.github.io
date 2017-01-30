@@ -1,0 +1,24 @@
+---
+layout: post
+title: Week Two
+---
+
+<b> What did you do this past week? </b>
+
+<p> This past week I spent with a schedule that I could finally work with. It took a while to get the classes that I knew I would be taking for the rest of the semester, but eventually they were set in stone. I looked up a bit about Python, as it has been a while since I have programmed in any language besides Java, C, and Assembly. After that, I did the reading for the class regarding Extreme Programming and JavaScript. I could then begin the Collatz project as specified by the syllabus. This week included me setting up the project for the first time and getting used to the various interfaces such as Travis CI and spoj. </p>
+
+<b> What's in your way? </b>
+
+<p> My knowledge of Python has deprecated over a little while since I've programmed in it. I will have to brush up on the language again in order to be able to program efficiently and flawlessly with it. I should know the data structures in order to make efficient solutions to problems such as the Collatz project. Also, I'm really unsure how to go about learning all the interfaces such as Travis CI in order to do well on the projects. I will be trying next week to get as much knowledge as possible regarding these interfaces so I can make the projects as efficiently as possible. </p> 
+
+<b> What will you do next week? </b>
+
+<p> Next week is when I will get started on the latter half of the Collatz project. I have spent this week on learning interfaces as much as possible and setting up my code to run in Github and Travis CI. I also implemented a simple approach to the problem this week, so next week comes the more efficient and timed solution in order to pass the sphere online judge. I will also be reading more up on JavaScript and Python in the meantime in order to catch up with the programming material of the class. </p>
+
+<b> My experience in the class </b>
+
+<p> My experience in the class this week has been just a little more rushed than the last week, as I have had to keep up with learning two new programming languages as well as learning multiple new interfaces. It has been fairly easy to understand the concepts of Python that were gone over in class, as I have had experience programming in the language before. The lectures themself were a little rushed it seemed, and I will have to review most of the material I was able to write down in order to really grasp some of the more difficult concepts gone over in class. </p> 
+
+<b> Tip-of-the-week </b>
+
+<p> A website that I believe deserves a lot more credit than it is given is reddit. Many people have not even tried to use reddit and instead decide to spend their time on Facebook. There is a subreddit dedicated solely to programming, where many people can post programming-related events or questions. This subreddit acts as a sort of knowledge pit where every day more interesting posts are on the front page, and you can learn a lot about programming that you may never have known before. It can be found <a href="www.reddit.com/r/programming">here</a>.</p>
