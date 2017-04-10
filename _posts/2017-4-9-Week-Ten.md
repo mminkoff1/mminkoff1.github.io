@@ -5,7 +5,7 @@ title: Week Nine
 
 <b> What did you do this past week? </b>
 
-<p> This past week was spent for the most part in the GDC lab working on phase two of the IDB project. Our game lookup project was looking really good, and we had the database up and running with all of the other tools that we were using for the project. Unfortunately, we didn't have much luck getting it to deploy with GCP, but that will be what we work on in the coming week. Other than that, I had to focus a lot on other classes' work as well. </p>
+<p> This past week was spent for the most part in the GDC lab working on phase two of the IDB project. Our game lookup project was looking really good, and we had the database up and running with all of the other tools that we were using for the project. Unfortunately, we didn't have much luck getting it to deploy with GCP, but that will be what we work on in the coming week. Other than that, I had to focus a lot on other classes' work as well.  </p>
 
 <b> What's in your way? </b>
 
