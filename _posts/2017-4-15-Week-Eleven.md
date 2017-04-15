@@ -21,4 +21,4 @@ title: Week Eleven
 
 <b> Tip-of-the-week </b>
 
-<p> If you are interested in programming, puzzles, or security challenges, I highly suggest checking out CTF (Capture the Flag) events happening online around the world. There are challenges for all levels, and for all types of skills. You can find out about various CTF events <a href="ctftime.org">here</a>!</p>
+<p> If you are interested in programming, puzzles, or security challenges, I highly suggest checking out CTF (Capture the Flag) events happening online around the world. There are challenges for all levels, and for all types of skills. You can find out about various CTF events <a href="http://www.ctftime.org">here</a>!</p>
